@@ -1,0 +1,12 @@
+name: modules_article1
+title: modules_article1
+username:
+account: rpodcast
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 562392
+bundleId: 1761810
+url: https://rpodcast.shinyapps.io/modules_article1/
+when: 1544736041.04656
+asMultiple: FALSE
+asStatic: FALSE
